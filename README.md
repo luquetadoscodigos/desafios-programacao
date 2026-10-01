@@ -12,11 +12,8 @@
 ou Finalização do módulo de Variáveis] | Aprovado | [Ver
 Imagem](./print1.png) |
 | 02 | [Nome do Exercício 02] | [Explicação curta da lógica ou comando]
-| Aprovado | [Ver Imagem](./prints/print2.png) |
-| 03 | [Nome do Exercício 03] | [Explicação curta da lógica ou comando]
-| Aprovado | [Ver Imagem](./prints/print_03.png) |
-| 04 | [Nome do Exercício 04] | [Explicação curta da lógica ou comando]
-| Aprovado | [Ver Imagem](./prints/print_04.png) |
+| Aprovado | [Ver Imagem](./print2.png) |
+
 > *Observação: Ajuste o número de linhas da tabela dependendo de quantos
 prints foram recomendados para a plataforma que você escolheu.*
 ---
