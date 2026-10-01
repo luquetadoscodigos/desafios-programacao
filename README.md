@@ -5,20 +5,17 @@
 * **Disciplina:** [Design Profissional]
 ---
 ## Tabela de Exercícios e Comprovações
-| Nº | Nome do Desafio / Lição | Breve Explicação | Status na Plataforma
-| Imagem Comprobatória |
-| :---: | :--- | :--- | :---: | :---: |
-| 01 | [Ex: Beecrowd 1001 ou Módulo 1 Coddy] | [Ex: Uso de printf/scanf
-ou Finalização do módulo de Variáveis] | Aprovado | [Ver
+| freeCodeCamp/ App para fotos de gatos| Nessa atividade, foram feitos 45 passos em um HTML, onde o objetivo era fazer um site para fotos de gatos, enquanto ensinava passo a passo elementos básicos de HTML. |
+
+| 01 | Print do último passo da atividade/ o código sendo montado/ a preview do site  | Aprovado | [Ver
 Imagem](./print1.png) |
-| 02 | [Nome do Exercício 02] | [Explicação curta da lógica ou comando]
+| 02 | Print final de como ficou o site de fotos de gatos após os 45 passos exercidos.
 | Aprovado | [Ver Imagem](./print2.png) |
 
-> *Observação: Ajuste o número de linhas da tabela dependendo de quantos
-prints foram recomendados para a plataforma que você escolheu.*
 ---
 ## Resumo dos Conceitos Praticados
 Descreva em 1 ou 2 parágrafos o que você aprendeu:
 * Quais foram as principais dificuldades?
-* Quais estruturas foram mais utilizadas? (Ex: `if/else`, laços
-`for/while`, tags `<div>`, comandos `SELECT`).
+* A tradução do site não colaborou com a utilização dos elementos durante a aplicação do código, porém, como eram coisas básicas, não tive dificuldades.
+* Quais estruturas foram mais utilizadas?
+* Teve diversas repetições de diversos elementos, sendo eles, 'h'(1, 2, 3, etc...), 'p', 'a','section', entre outros padrões em HTML.
