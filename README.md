@@ -10,7 +10,7 @@
 | :---: | :--- | :--- | :---: | :---: |
 | 01 | [Ex: Beecrowd 1001 ou Módulo 1 Coddy] | [Ex: Uso de printf/scanf
 ou Finalização do módulo de Variáveis] | Aprovado | [Ver
-Imagem](./prints/print1.png) |
+Imagem](./print1.png) |
 | 02 | [Nome do Exercício 02] | [Explicação curta da lógica ou comando]
 | Aprovado | [Ver Imagem](./prints/print2.png) |
 | 03 | [Nome do Exercício 03] | [Explicação curta da lógica ou comando]
